@@ -1,3 +1,7 @@
 # firstone
 This is for hackathon 
-## 🚀 Live Demo
+# Smart Debugger Assistant 🔥
+
+This is my hackathon project.
+
+🌐 Live App: https://error-coach-ai.lovable.app
