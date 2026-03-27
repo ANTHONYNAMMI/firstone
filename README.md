@@ -4,4 +4,4 @@ This is for hackathon
 
 This is my hackathon project.
 
-🌐 Live App: https://error-coach-ai.lovable.app
+🌐 Live App: [Open App](https://error-coach-ai.lovable.app)
